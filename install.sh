@@ -8,7 +8,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/titan/titan.py",
+    "postStartCommand": "python3 /workspaces/wajidgitmax/titan.py",
     "customizations": {
         "vscode": {
             "settings": {
